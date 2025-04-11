@@ -1,0 +1,16 @@
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body,
+input,
+form,
+button,
+p,
+div {
+  margin: 0;
+  padding: 0;
+}
